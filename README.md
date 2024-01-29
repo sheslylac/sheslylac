@@ -1,14 +1,6 @@
 HI EVERYONE AND SUNCHEEZ!!! 
 
-int user = 999;
-if (user <= 18) (
-System.out.print in ("is he likes me?") ;
-)
-else (
-System.out.print in ("delulu is solulu, right?")
-)
-
-A SPECIAL STAR <3
+A SPECIAL STAR <3 FROM DELULU ON SOLULU
 
 Here are some ideas to get you started:
 
