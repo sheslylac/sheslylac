@@ -13,6 +13,6 @@ I AM STILL LEARNING
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheslylac&theme=dark&background=9575cd)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheslylac&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
