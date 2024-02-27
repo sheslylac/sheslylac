@@ -9,10 +9,5 @@ I AM STILL LEARNING
 <!-- To Link your profile to the media buttons -->
 [1]: https://www.instagram.com/sheslylac/
 
-<!-- Display my stats in README -->
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheslylac&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
